@@ -1,0 +1,10 @@
+## Interface: 16001
+## Title: Recoup
+## Notes: Compact Eat, Drink and Bandage buttons using the strongest supplies in your bags.
+## Author: John
+## Version: 1.1.0
+## SavedVariables: RecoupDB
+## OptionalDeps: SnackBar
+## IconTexture: Interface\Icons\INV_Misc_Bandage_12
+Ranking.lua
+Recoup.lua

@@ -1,0 +1,6 @@
+## Interface: 16001
+## Title: Recoup - legacy settings loader
+## Notes: Loads your old SnackBar position and preferences. No buttons or item-use code.
+## Author: John
+## Version: 1.1.0
+## SavedVariables: SnackBarDB

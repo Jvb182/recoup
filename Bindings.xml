@@ -1,0 +1,5 @@
+<Bindings>
+    <Binding name="CLICK SnackBarEat:LeftButton" header="SNACKBAR" category="ADDONS" />
+    <Binding name="CLICK SnackBarDrink:LeftButton" category="ADDONS" />
+    <Binding name="CLICK RecoupBandage:LeftButton" category="ADDONS" />
+</Bindings>
